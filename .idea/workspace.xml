@@ -5,6 +5,9 @@
       <config />
     </shared>
   </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="40a96ed5-f9b1-4431-9528-634df3dc7e09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -121,9 +124,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1596730487189">
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom" timestamp="1596821656655">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596730487189" />
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596821656655" />
+    <state width="1322" height="128" key="GridCell.Tab.0.center" timestamp="1596821656654">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596821656654" />
+    <state width="1322" height="128" key="GridCell.Tab.0.left" timestamp="1596821656653">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596821656653" />
+    <state width="1322" height="128" key="GridCell.Tab.0.right" timestamp="1596821656654">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596821656654" />
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1596859436722">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1024.768@0.0.1366.738" timestamp="1596859436722" />
   </component>
 </project>
